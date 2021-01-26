@@ -17,7 +17,8 @@ namespace Demo
         {
             int a = 10;
             int b = 20;
-            int sum = a *b;
+            int c = 30;
+            int sum = a *b*c;
             return sum;
         }
 
